@@ -40,7 +40,7 @@ etl_round2.py / model.py (baseline & ranking models)
    ↓
 submission.csv / amex_pipeline.pkl
 
-📁 Repository Structure
+##📁 Repository Structure
 ├── read.py                  # Converts raw Parquet files into feature CSVs
 ├── etl_round2.py            # Feature selection + ranking model (LightGBM)
 ├── amex_offer_train.py      # Main ML pipeline (LightGBM + XGBoost ensemble)
