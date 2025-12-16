@@ -1,5 +1,4 @@
 Customer Engagement Analysis – AMEX Offer Recommendation System
-📌 Project Overview
 
 This project builds a customer engagement and offer recommendation system using transaction behavior, event interactions, and offer metadata.
 The goal is to predict whether a customer will engage (click) with a given offer, and to rank offers per customer using machine learning models.
